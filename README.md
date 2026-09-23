@@ -21,5 +21,5 @@ Deployment: Streamlit Community Cloud
 
 ・ローカル環境での起動方法
 ---bash---
-git clone [URL]
+git clone [https://github.com/stonewell627/ai-kakeibo-app.git]
 cd ai-kakeibo-app
