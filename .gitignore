@@ -1,0 +1,8 @@
+.env
+
+*.db
+*.sqlite3
+
+temp_uploaded_receipt.jpg
+__pycache__/
+.venv/
